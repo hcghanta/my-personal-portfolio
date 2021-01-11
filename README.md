@@ -7,5 +7,9 @@ This is the implementaion code for the blog I have written '[How to create your 
   - navigate to folder `portfolio-app`
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
+
+- To deploy follow these steps ,
+  - run `npm install gh-pages`
+  - run `npm run deploy`
     
-##### deployed app : https://dbarochiya.github.io/me/
+##### deployed app : https://hcghanta.github.io/my-personal-portfolio/
